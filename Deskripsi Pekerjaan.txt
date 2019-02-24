@@ -1,0 +1,28 @@
+-----Deskripsi Pekerjaan----
+Kelas: IF-40-04
+Mata Kuliah: Pemrograman Web
+Kode Dosen: IBR
+
+a. 1301164045 Aditya Eka Maulana:
+-Membuat fungsionalitas pada halaman depan(home)
+-Membuat fungsionalitas pada daftar event
+-Membuat fungsionalitas pada create event
+-Membuat fungsionalitas pada halaman deskripsi detil event
+
+Controller: Home_C, Listevent_C, CreateEvent_C, Detail_C
+
+b. 1301164428 M. Ryaan Izza Mahendra:
+-Membuat fungsionalitas pada halaman daftar barang
+-Membuat fungsionalitas pada halam daftar pembelian
+
+Controller: Bayar_C
+
+c. 1301164167 Hovely Wahyu Zaputra:
+-Membuat fungsionalitas pada halaman login
+
+Controller: User
+
+d. 1301164546 Riska Chairunisa:
+-Membuat fungsionalitas pada halaman registrasi
+
+Controller: Regis_C
